@@ -90,6 +90,7 @@ export const Repositories = styled.div`
       height: 64px;
       border-radius: 50%;
     }
+
     div {
       margin: 0 12px;
       flex: 1;
